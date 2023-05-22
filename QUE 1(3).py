@@ -1,0 +1,11 @@
+a=str(input("Give your input"))
+a1=len(a)
+print(a1)
+s=a[10:26]
+print(s)
+s1=s.replace(s,"object oriented")
+print(s1)
+s2=a.index("a")
+print(s2)
+s3=a.replace("","")
+print(s3)

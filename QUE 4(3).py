@@ -1,0 +1,5 @@
+a=int(input('Enter first nuumber'))
+b=int(input('Enter second number'))
+c=int(input('Enter third number'))
+m=max(a,b,c)
+print(m)
